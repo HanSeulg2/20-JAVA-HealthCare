@@ -8,3 +8,6 @@
 
 ### 관련기술
 ![관련기술](https://user-images.githubusercontent.com/71927210/128536488-9805b0a2-bc1a-4d10-96f2-00cb2e7c80ad.PNG)
+
+### 이해 사자 요구사항
+![image](https://user-images.githubusercontent.com/71927210/128537141-299dca98-248f-497b-87fb-8460bd73a0f8.png)
