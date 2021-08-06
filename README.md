@@ -11,3 +11,7 @@
 
 ### 이해 당사자 요구사항
 ![image](https://user-images.githubusercontent.com/71927210/128537141-299dca98-248f-497b-87fb-8460bd73a0f8.png)
+
+### 유스케이스
+#### 관리자 프로세스
+![image](https://user-images.githubusercontent.com/71927210/128537414-2e442ce1-60e3-4609-b3d7-626eec287b94.png)
