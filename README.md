@@ -15,3 +15,5 @@
 ### 유스케이스
 #### 관리자 프로세스
 ![image](https://user-images.githubusercontent.com/71927210/128537414-2e442ce1-60e3-4609-b3d7-626eec287b94.png)
+#### 로그인 프로세스
+![image](https://user-images.githubusercontent.com/71927210/128537617-85c02ee3-8c11-4f75-8a97-e6d6f616f03e.png)
