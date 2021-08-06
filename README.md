@@ -5,3 +5,6 @@
 -  회원 : 인바디 정보 (날짜, 키, 몸무게, BMI), 운동 목표 입력, 트레이너 추천 운동 구성 및 식단 조회, 운동 달성 체크
 ### 주요기능
 ![헬스케어 특징 목록](https://user-images.githubusercontent.com/71927210/128536326-9beff814-1c4a-4895-8fb8-8290b317df70.PNG)
+
+### 관련기술
+![관련기술](https://user-images.githubusercontent.com/71927210/128536488-9805b0a2-bc1a-4d10-96f2-00cb2e7c80ad.PNG)
