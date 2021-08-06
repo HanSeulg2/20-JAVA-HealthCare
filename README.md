@@ -19,3 +19,11 @@
 ![image](https://user-images.githubusercontent.com/71927210/128537617-85c02ee3-8c11-4f75-8a97-e6d6f616f03e.png)
 #### 3.회원정보 입력
 ![image](https://user-images.githubusercontent.com/71927210/128537928-13684d76-cb85-4c2c-9df6-1ef2518427b2.png)
+####
+![image](https://user-images.githubusercontent.com/71927210/128538251-ed142c04-649b-496d-b06a-f9d13d2530ba.png)
+####
+![image](https://user-images.githubusercontent.com/71927210/128538286-822de9df-6377-4b10-bda2-8d7e708fb986.png)
+####
+![image](https://user-images.githubusercontent.com/71927210/128538348-7eb2c3b9-1762-4333-b7f0-b5885e096eab.png)
+####
+![image](https://user-images.githubusercontent.com/71927210/128538379-6816eb94-48e6-4735-b6a1-5c2377db2649.png)
