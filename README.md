@@ -13,7 +13,9 @@
 ![image](https://user-images.githubusercontent.com/71927210/128537141-299dca98-248f-497b-87fb-8460bd73a0f8.png)
 
 ### 유스케이스
-#### 관리자 프로세스
+#### 관리자
 ![image](https://user-images.githubusercontent.com/71927210/128537414-2e442ce1-60e3-4609-b3d7-626eec287b94.png)
-#### 로그인 프로세스
+#### 로그인
 ![image](https://user-images.githubusercontent.com/71927210/128537617-85c02ee3-8c11-4f75-8a97-e6d6f616f03e.png)
+#### 회원정보 입력
+![image](https://user-images.githubusercontent.com/71927210/128537928-13684d76-cb85-4c2c-9df6-1ef2518427b2.png)
