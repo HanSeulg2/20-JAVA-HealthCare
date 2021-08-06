@@ -27,3 +27,5 @@
 ![image](https://user-images.githubusercontent.com/71927210/128538348-7eb2c3b9-1762-4333-b7f0-b5885e096eab.png)
 #### 7.회원 식단 구성
 ![image](https://user-images.githubusercontent.com/71927210/128538379-6816eb94-48e6-4735-b6a1-5c2377db2649.png)
+### 일정 계획 평가
+![image](https://user-images.githubusercontent.com/71927210/128538804-9eab7b7c-83b3-404f-b45d-8fe7c81e6050.png)
